@@ -1,0 +1,88 @@
+C:\Proyectos\Etereo TI\EtereoIT-Correos\envioMasivoCorreos\bin\Debug\net6.0\envioMasivoCorreos.exe
+C:\Proyectos\Etereo TI\EtereoIT-Correos\envioMasivoCorreos\bin\Debug\net6.0\envioMasivoCorreos.deps.json
+C:\Proyectos\Etereo TI\EtereoIT-Correos\envioMasivoCorreos\bin\Debug\net6.0\envioMasivoCorreos.runtimeconfig.json
+C:\Proyectos\Etereo TI\EtereoIT-Correos\envioMasivoCorreos\bin\Debug\net6.0\envioMasivoCorreos.dll
+C:\Proyectos\Etereo TI\EtereoIT-Correos\envioMasivoCorreos\bin\Debug\net6.0\envioMasivoCorreos.pdb
+C:\Proyectos\Etereo TI\EtereoIT-Correos\envioMasivoCorreos\obj\Debug\net6.0\envioMasivoCorreos.csproj.AssemblyReference.cache
+C:\Proyectos\Etereo TI\EtereoIT-Correos\envioMasivoCorreos\obj\Debug\net6.0\envioMasivoCorreos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Etereo TI\EtereoIT-Correos\envioMasivoCorreos\obj\Debug\net6.0\envioMasivoCorreos.AssemblyInfoInputs.cache
+C:\Proyectos\Etereo TI\EtereoIT-Correos\envioMasivoCorreos\obj\Debug\net6.0\envioMasivoCorreos.AssemblyInfo.cs
+C:\Proyectos\Etereo TI\EtereoIT-Correos\envioMasivoCorreos\obj\Debug\net6.0\envioMasivoCorreos.csproj.CoreCompileInputs.cache
+C:\Proyectos\Etereo TI\EtereoIT-Correos\envioMasivoCorreos\obj\Debug\net6.0\envioMasivoCorreos.dll
+C:\Proyectos\Etereo TI\EtereoIT-Correos\envioMasivoCorreos\obj\Debug\net6.0\refint\envioMasivoCorreos.dll
+C:\Proyectos\Etereo TI\EtereoIT-Correos\envioMasivoCorreos\obj\Debug\net6.0\envioMasivoCorreos.pdb
+C:\Proyectos\Etereo TI\EtereoIT-Correos\envioMasivoCorreos\obj\Debug\net6.0\envioMasivoCorreos.genruntimeconfig.cache
+C:\Proyectos\Etereo TI\EtereoIT-Correos\envioMasivoCorreos\obj\Debug\net6.0\ref\envioMasivoCorreos.dll
+C:\Proyectos\Etereo IT\EtereoIT-Correos\envioMasivoCorreos\obj\Debug\net6.0\envioMasivoCorreos.csproj.AssemblyReference.cache
+C:\Proyectos\Etereo IT\EtereoIT-Correos\envioMasivoCorreos\obj\Debug\net6.0\envioMasivoCorreos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Etereo IT\EtereoIT-Correos\envioMasivoCorreos\obj\Debug\net6.0\envioMasivoCorreos.AssemblyInfoInputs.cache
+C:\Proyectos\Etereo IT\EtereoIT-Correos\envioMasivoCorreos\obj\Debug\net6.0\envioMasivoCorreos.AssemblyInfo.cs
+C:\Proyectos\Etereo IT\EtereoIT-Correos\envioMasivoCorreos\obj\Debug\net6.0\envioMasivoCorreos.csproj.CoreCompileInputs.cache
+C:\Proyectos\Etereo IT\EtereoIT-Correos\envioMasivoCorreos\obj\Debug\net6.0\envioMasivoCorreos.dll
+C:\Proyectos\Etereo IT\EtereoIT-Correos\envioMasivoCorreos\obj\Debug\net6.0\refint\envioMasivoCorreos.dll
+C:\Proyectos\Etereo IT\EtereoIT-Correos\envioMasivoCorreos\obj\Debug\net6.0\envioMasivoCorreos.pdb
+C:\Proyectos\Etereo IT\EtereoIT-Correos\envioMasivoCorreos\bin\Debug\net6.0\envioMasivoCorreos.exe
+C:\Proyectos\Etereo IT\EtereoIT-Correos\envioMasivoCorreos\bin\Debug\net6.0\envioMasivoCorreos.deps.json
+C:\Proyectos\Etereo IT\EtereoIT-Correos\envioMasivoCorreos\bin\Debug\net6.0\envioMasivoCorreos.runtimeconfig.json
+C:\Proyectos\Etereo IT\EtereoIT-Correos\envioMasivoCorreos\bin\Debug\net6.0\envioMasivoCorreos.dll
+C:\Proyectos\Etereo IT\EtereoIT-Correos\envioMasivoCorreos\bin\Debug\net6.0\envioMasivoCorreos.pdb
+C:\Proyectos\Etereo IT\EtereoIT-Correos\envioMasivoCorreos\obj\Debug\net6.0\envioMasivoCorreos.genruntimeconfig.cache
+C:\Proyectos\Etereo IT\EtereoIT-Correos\envioMasivoCorreos\obj\Debug\net6.0\ref\envioMasivoCorreos.dll
+C:\Proyectos\Etereo IT\EtereoIT-Correos\envioMasivoCorreos\bin\Debug\net6.0\EPPlus.dll
+C:\Proyectos\Etereo IT\EtereoIT-Correos\envioMasivoCorreos\bin\Debug\net6.0\EPPlus.Interfaces.dll
+C:\Proyectos\Etereo IT\EtereoIT-Correos\envioMasivoCorreos\bin\Debug\net6.0\EPPlus.System.Drawing.dll
+C:\Proyectos\Etereo IT\EtereoIT-Correos\envioMasivoCorreos\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Proyectos\Etereo IT\EtereoIT-Correos\envioMasivoCorreos\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Proyectos\Etereo IT\EtereoIT-Correos\envioMasivoCorreos\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Proyectos\Etereo IT\EtereoIT-Correos\envioMasivoCorreos\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Proyectos\Etereo IT\EtereoIT-Correos\envioMasivoCorreos\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Proyectos\Etereo IT\EtereoIT-Correos\envioMasivoCorreos\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Proyectos\Etereo IT\EtereoIT-Correos\envioMasivoCorreos\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Proyectos\Etereo IT\EtereoIT-Correos\envioMasivoCorreos\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Proyectos\Etereo IT\EtereoIT-Correos\envioMasivoCorreos\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Proyectos\Etereo IT\EtereoIT-Correos\envioMasivoCorreos\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Proyectos\Etereo IT\EtereoIT-Correos\envioMasivoCorreos\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Proyectos\Etereo IT\EtereoIT-Correos\envioMasivoCorreos\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Proyectos\Etereo IT\EtereoIT-Correos\envioMasivoCorreos\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Proyectos\Etereo IT\EtereoIT-Correos\envioMasivoCorreos\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Proyectos\Etereo IT\EtereoIT-Correos\envioMasivoCorreos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Proyectos\Etereo IT\EtereoIT-Correos\envioMasivoCorreos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Proyectos\Etereo IT\EtereoIT-Correos\envioMasivoCorreos\obj\Debug\net6.0\envioMasivoCorreos.csproj.CopyComplete
+C:\Proyectos\Etereo It\Envio Correo\envioMasivoCorreos\bin\Debug\net6.0\envioMasivoCorreos.exe
+C:\Proyectos\Etereo It\Envio Correo\envioMasivoCorreos\bin\Debug\net6.0\appsettings.json
+C:\Proyectos\Etereo It\Envio Correo\envioMasivoCorreos\bin\Debug\net6.0\envioMasivoCorreos.deps.json
+C:\Proyectos\Etereo It\Envio Correo\envioMasivoCorreos\bin\Debug\net6.0\envioMasivoCorreos.runtimeconfig.json
+C:\Proyectos\Etereo It\Envio Correo\envioMasivoCorreos\bin\Debug\net6.0\envioMasivoCorreos.dll
+C:\Proyectos\Etereo It\Envio Correo\envioMasivoCorreos\bin\Debug\net6.0\envioMasivoCorreos.pdb
+C:\Proyectos\Etereo It\Envio Correo\envioMasivoCorreos\bin\Debug\net6.0\EPPlus.dll
+C:\Proyectos\Etereo It\Envio Correo\envioMasivoCorreos\bin\Debug\net6.0\EPPlus.Interfaces.dll
+C:\Proyectos\Etereo It\Envio Correo\envioMasivoCorreos\bin\Debug\net6.0\EPPlus.System.Drawing.dll
+C:\Proyectos\Etereo It\Envio Correo\envioMasivoCorreos\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Proyectos\Etereo It\Envio Correo\envioMasivoCorreos\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Proyectos\Etereo It\Envio Correo\envioMasivoCorreos\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Proyectos\Etereo It\Envio Correo\envioMasivoCorreos\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Proyectos\Etereo It\Envio Correo\envioMasivoCorreos\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Proyectos\Etereo It\Envio Correo\envioMasivoCorreos\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Proyectos\Etereo It\Envio Correo\envioMasivoCorreos\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Proyectos\Etereo It\Envio Correo\envioMasivoCorreos\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Proyectos\Etereo It\Envio Correo\envioMasivoCorreos\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Proyectos\Etereo It\Envio Correo\envioMasivoCorreos\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Proyectos\Etereo It\Envio Correo\envioMasivoCorreos\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Proyectos\Etereo It\Envio Correo\envioMasivoCorreos\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Proyectos\Etereo It\Envio Correo\envioMasivoCorreos\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Proyectos\Etereo It\Envio Correo\envioMasivoCorreos\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Proyectos\Etereo It\Envio Correo\envioMasivoCorreos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Proyectos\Etereo It\Envio Correo\envioMasivoCorreos\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Proyectos\Etereo It\Envio Correo\envioMasivoCorreos\obj\Debug\net6.0\envioMasivoCorreos.csproj.AssemblyReference.cache
+C:\Proyectos\Etereo It\Envio Correo\envioMasivoCorreos\obj\Debug\net6.0\envioMasivoCorreos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Etereo It\Envio Correo\envioMasivoCorreos\obj\Debug\net6.0\envioMasivoCorreos.AssemblyInfoInputs.cache
+C:\Proyectos\Etereo It\Envio Correo\envioMasivoCorreos\obj\Debug\net6.0\envioMasivoCorreos.AssemblyInfo.cs
+C:\Proyectos\Etereo It\Envio Correo\envioMasivoCorreos\obj\Debug\net6.0\envioMasivoCorreos.csproj.CoreCompileInputs.cache
+C:\Proyectos\Etereo It\Envio Correo\envioMasivoCorreos\obj\Debug\net6.0\envioMasivoCorreos.csproj.CopyComplete
+C:\Proyectos\Etereo It\Envio Correo\envioMasivoCorreos\obj\Debug\net6.0\envioMasivoCorreos.dll
+C:\Proyectos\Etereo It\Envio Correo\envioMasivoCorreos\obj\Debug\net6.0\refint\envioMasivoCorreos.dll
+C:\Proyectos\Etereo It\Envio Correo\envioMasivoCorreos\obj\Debug\net6.0\envioMasivoCorreos.pdb
+C:\Proyectos\Etereo It\Envio Correo\envioMasivoCorreos\obj\Debug\net6.0\envioMasivoCorreos.genruntimeconfig.cache
+C:\Proyectos\Etereo It\Envio Correo\envioMasivoCorreos\obj\Debug\net6.0\ref\envioMasivoCorreos.dll
+C:\Proyectos\Etereo It\Envio Correo\envioMasivoCorreos\bin\Debug\net6.0\Serilog.dll
+C:\Proyectos\Etereo It\Envio Correo\envioMasivoCorreos\bin\Debug\net6.0\Serilog.Sinks.File.dll

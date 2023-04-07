@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "envioMasivoCorreos": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:57721;http://localhost:57722"
+    }
+  }
+}
