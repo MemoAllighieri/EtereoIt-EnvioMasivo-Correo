@@ -18,16 +18,14 @@ namespace envioMasivoCorreos.Utils
             };
         }
 
-        public bool Send(SmtpClient client, string from, string to)
+        public bool Send(SmtpClient client, MailMessage email)
         {
             Log.Information("Sending Email...");
             Console.WriteLine("Sending Email...");
             var response = false;
             try
             {                
-                var email = new MailMessage(from, to);
-                email.Subject = "Asunto: " + "Prueba de envío de correo";
-                email.Body = "PRUEBA PRUEBA PRUEBA PRUEBA";
+
                 client.Send(email);
 
                 response = true;
